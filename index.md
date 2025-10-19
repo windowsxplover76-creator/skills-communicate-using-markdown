@@ -13,3 +13,7 @@ public void hello() {
   System.out.println("World!");
 }
 ```
+
+- [X] love windows xp
+- [ ] like windows vista
+- [ ] likz octocat
